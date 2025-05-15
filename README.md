@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurmudemuma
 - 👀 I’m interested in ... data techno!
-- 🌱 I’m currently learning ...the logic of Data science in deed!
+- 🌱 I’m currently learning ...the logic of Data science indeed!
 - 💞️ I’m looking to collaborate on ... with those of Data engineer!
 - 📫 How to reach me ...@gurmudemuma on #linkedin
 - 😄 Pronouns: ...
